@@ -1,6 +1,6 @@
 let titles_type = [];
-let titles_model = ["Simultaneous", "Streaming", "Translation","Speech"];
-let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised","Attention"];
+let titles_model = ["Simultaneous", "Streaming", "Translation","Speech","Language Model"];
+let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised","Attention","Finetune","Fine-tune","Finetuning","Alignment"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = [];
 
