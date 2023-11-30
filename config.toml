@@ -1,5 +1,5 @@
 site_title = "MyArxiv"
-limit_days = 365
+limit_days = 30
 cache_url = "https://zhangshaolei1998.github.io/MyArxiv/cache.json"
 
 [[sources]]
